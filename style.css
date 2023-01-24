@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+body {
+ background-color: rgb(91, 159, 210);
+}
+ 
+section {
+ border-radius: 10px;
+ background-color: white;
+ width: 70vw;
+ height: auto;
+ padding: 20px;
+ margin: auto;
+}
+ div#container {
+  margin-bottom: 20px;
+ }
+
+ div#res {
+  text-align: center;
+  font-weight: 700;
+ }
+
+ img {
+  display: block;
+  width: 20vw;
+  min-height: 20vh;
+  border-radius: 40%;
+  text-align: center;
+  padding-top: 20px;
+  margin: auto;
+ }
